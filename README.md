@@ -28,3 +28,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Lıcense
 
 [MIT](https://choosealicense.com/)
+
+[Proje Resmi](https://github.com/sakaoglua/kodluyoruzilkrepo)
